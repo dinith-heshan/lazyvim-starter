@@ -10,3 +10,5 @@ git clone https://github.com/dinith-heshan/lazyvim-starter ~/.config/nvim
 ```sh
 rm -rf ~/.config/nvim/.git
 ```
+
+Terminal font: **JetBrainsMono Nerd Font Mono** — the Mono variant keeps icons one cell wide.
